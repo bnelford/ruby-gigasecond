@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-gigasecond/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-gigasecond/actions/workflows/ruby.yml)
+
 # Gigasecond
 
 Calculate the moment when someone has lived for 10^9 seconds.
